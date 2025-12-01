@@ -4,3 +4,5 @@ mlxtend
 scikit-learn
 matplotlib
 seaborn
+numpy
+itertools

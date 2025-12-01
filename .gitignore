@@ -1,0 +1,23 @@
+#Python Standard
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+#Virtual Environments
+venv/
+env/
+.venv/
+.env/
+
+#Data Files
+*.xlsx
+*.xls
+
+#IDE Specific
+.vscode/
+.DS_Store
+
+#Outputs
+*.csv
+*.png
