@@ -8,7 +8,7 @@ Project Structure:
     clustering.py:
         Performs RMF analysis & K-Means clustering
     requirements.txt:
-        list of Python Dependancies
+        list of Python Dependencies
 
 
 Installation:

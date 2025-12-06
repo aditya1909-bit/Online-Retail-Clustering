@@ -4,7 +4,7 @@ import os
 INPUT_FILE = 'online_retail_II.xlsx'
 OUTPUT_FILE = 'cleaned_online_retail.csv'
 
-print(f"Loadeing data from {INPUT_FILE}...")
+print(f"Loading data from {INPUT_FILE}...")
 
 if not os.path.exists(INPUT_FILE):
     raise FileNotFoundError(f"The input file {INPUT_FILE} does not exist.")
