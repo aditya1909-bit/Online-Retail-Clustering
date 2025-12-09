@@ -1,3 +1,5 @@
+Aditya Dutta & Ege Gürsel
+
 Project Structure:
     data_to_csv.py:
         Loads raw Excel file and cleans data
